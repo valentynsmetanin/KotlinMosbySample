@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KotlinMosbySample</string>
+
+    <string name="contributors">Contributors</string>
+    <string name="err_something_wrong">Something wrong</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+
+</resources>
